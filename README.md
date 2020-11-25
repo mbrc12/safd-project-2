@@ -1,6 +1,6 @@
 # Statistical Analysis of Financial Data - Project 2 
 
-## -- Group 3
+**_by Group 3_**
 
 This repository contains the Python notebooks for the second part of the Statistical Analysis of Financial Data (SAFD) course. 
 
